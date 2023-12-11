@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on [project-roadmaps](https://github.com/visiodeibc/project-roadmaps)
 - 🌱 I’m currently learning LLM, Indie Hacking, MVP
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visiodeibc&show_icons=true&theme=radical)
+
 <!--
 **visiodeibc/visiodeibc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
