@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [project-roadmaps](https://github.com/visiodeibc/stable_diffusion)
+- 🔭 I’m currently working on [project-roadmaps](https://github.com/visiodeibc/project-roadmaps)
 - 🌱 I’m currently learning LLM, Indie Hacking, MVP
 
 <!--
