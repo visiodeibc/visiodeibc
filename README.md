@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 About Me -> [visiodeibc.com](www.visiodeibc.com)
+- 🔭 About Me -> [visiodeibc.com](https://www.visiodeibc.com/)
 - 🌱 I’m currently learning LLM, Indie Hacking, MVP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visiodeibc&show_icons=true&theme=radical)
