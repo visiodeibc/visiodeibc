@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [project-roadmaps](https://github.com/visiodeibc/project-roadmaps)
+- 🔭 About Me -> [visiodeibc.com](visiodeibc.com)
 - 🌱 I’m currently learning LLM, Indie Hacking, MVP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visiodeibc&show_icons=true&theme=radical)
