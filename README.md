@@ -3,6 +3,11 @@
 - 🔭 About Me -> [visiodeibc.com](https://www.visiodeibc.com/)
 - 🌱 I’m currently learning LLM, Indie Hacking, MVP
 
+### Repo Naming
+rs_ : folked/testing
+pr_ : project/product for doing things that I wanted to try
+st_ : for study
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visiodeibc&show_icons=true&theme=radical)
 
 <!--
